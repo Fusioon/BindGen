@@ -1,0 +1,10 @@
+FileVersion = 1
+Dependencies = {corlib = "*", JSONReader = "*"}
+
+[Project]
+Name = "BindGen"
+StartupObject = "BindGen.Program"
+
+[[ProjectFolder.Items]]
+Type = "IgnoreSource"
+Name = "Preprocessor.bf"

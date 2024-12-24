@@ -1,0 +1,5 @@
+FileVersion = 1
+Projects = {BindGen = {Path = "."}, JSONReader = {Path = "libs/JSONReader"}}
+
+[Workspace]
+StartupProject = "BindGen"
